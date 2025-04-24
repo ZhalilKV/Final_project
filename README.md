@@ -56,6 +56,7 @@ Screenshots:
 ![Screenshot 2025-04-24 201451](https://github.com/user-attachments/assets/f9d6091d-46d8-4503-8dc1-3fe068c24338)
 
 UML Class diagram:
+
 ![Screenshot 2025-04-24 143229](https://github.com/user-attachments/assets/4393e3e1-8a25-4252-a4d7-f60f052f9387)
 
 
