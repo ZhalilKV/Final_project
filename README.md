@@ -13,30 +13,16 @@ The main goal of Fit Track is to provide an intuitive and interactive platform w
 
 PROJECT REQUIREMENTS LIST 
 
-1) User Account Management (Add, edit, and delete user profiles (name, age, weight, etc.).
-
-2) Workout Logging System (Record workouts with type, duration, date, and calories burned).
-
-3) Nutrition Tracking (Log meals with nutritional information like calories, protein, carbs, and fats).
-
-4) Database Integration (Store and retrieve data using SQLite with at least 3 well-structured tables (e.g., users, workouts, meals).
-
-5) DAO (Data Access Object) Pattern
+1) User Account Management : Add, edit, and delete user profiles (name, age, weight, etc..
+2) Workout Logging System : Record workouts with type, duration, date, and calories burned.
+3) Nutrition Tracking : Log meals with nutritional information like calories, protein, carbs, and fats.
+4) Database Integration : Store and retrieve data using SQLite with at least 3 well-structured tables (e.g., users, workouts, meals).
+5) DAO (Data Access Object) Pattern :
 Encapsulate all database operations to promote clean code and easy maintenance.
-
-6) GUI with PyQt5 and Qt Designer
-A fully functional, user-friendly interface with input fields, buttons, and tables.
-
-7) MVC Architecture Implementation
-Clear separation between Models, Views (GUI), and Controllers for better code organization.
-
-8) Data Validation
-Ensure that only valid data (e.g., positive numbers for age, calories) can be entered and saved.
-
-9) Reports and Charts with Matplotlib
-Display visual progress reports (e.g., weight change over time, calorie intake trends).
-
-11) Unit Testing for Core Modules
-Test key components such as models and database operations to ensure reliability.
+6) GUI with PyQt5 and Qt Designer : A fully functional, user-friendly interface with input fields, buttons, and tables.
+7) MVC Architecture Implementation : Clear separation between Models, Views (GUI), and Controllers for better code organization.
+8) Data Validation : Ensure that only valid data (e.g., positive numbers for age, calories) can be entered and saved.
+9) Reports and Charts with Matplotlib : Display visual progress reports (e.g., weight change over time, calorie intake trends).
+10) Unit Testing for Core Modules : Test key components such as models and database operations to ensure reliability.
 
 
