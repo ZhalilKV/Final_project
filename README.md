@@ -39,6 +39,7 @@ Kachkynov Zhalil ()
 Toktosunov Adil ()
 
 Screenshots: 
+
 ![Screenshot 2025-04-24 214939](https://github.com/user-attachments/assets/18754990-250d-4725-9665-fcef75b5e911)
 ![Screenshot 2025-04-24 214949](https://github.com/user-attachments/assets/9e883bd2-56f1-4a82-a64a-d5d6b14f45e3)
 ![Screenshot 2025-04-24 215037](https://github.com/user-attachments/assets/77cd2382-8357-4e38-b7fd-389720e51f53)
@@ -48,6 +49,9 @@ Screenshots:
 ![Screenshot 2025-04-24 201525](https://github.com/user-attachments/assets/10f51914-ae0f-4afb-a559-f9965fb0fad3)
 ![Screenshot 2025-04-24 201501](https://github.com/user-attachments/assets/e34245f2-4ccb-4ea2-9960-a49b0ab887fb)
 ![Screenshot 2025-04-24 201451](https://github.com/user-attachments/assets/f9d6091d-46d8-4503-8dc1-3fe068c24338)
+
+UML Class diagram:
+![Screenshot 2025-04-24 143229](https://github.com/user-attachments/assets/4393e3e1-8a25-4252-a4d7-f60f052f9387)
 
 
 
