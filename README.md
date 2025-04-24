@@ -7,24 +7,24 @@ Fit Track is a desktop-based fitness tracking application , designed to help use
 PURPOSE
 
 The main goal of Fit Track is to provide an intuitive and interactive platform where users can:
-1. Log daily workouts and exercises.
-2. Record meals and calculate caloric intake.
-3. Monitor progress with charts and reports.
-4. Maintain consistent fitness habits using data-driven insights.
+* Log daily workouts and exercises.
+*  Record meals and calculate caloric intake.
+* Monitor progress with charts and reports.
+* Maintain consistent fitness habits using data-driven insights.
 
 PROJECT REQUIREMENTS LIST 
 
-1) User Account Management : Add, edit, and delete user profiles (name, age, weight, etc..
-2) Workout Logging System : Record workouts with type, duration, date, and calories burned.
-3) Nutrition Tracking : Log meals with nutritional information like calories, protein, carbs, and fats.
-4) Database Integration : Store and retrieve data using SQLite with at least 3 well-structured tables (e.g., users, workouts, meals).
-5) DAO (Data Access Object) Pattern :
+* User Account Management : Add, edit, and delete user profiles (name, age, weight, etc..
+* Workout Logging System : Record workouts with type, duration, date, and calories burned.
+* Nutrition Tracking : Log meals with nutritional information like calories, protein, carbs, and fats.
+* Database Integration : Store and retrieve data using SQLite with at least 3 well-structured tables (e.g., users, workouts, meals).
+* DAO (Data Access Object) Pattern :
 Encapsulate all database operations to promote clean code and easy maintenance.
-6) GUI with PyQt5 and Qt Designer : A fully functional, user-friendly interface with input fields, buttons, and tables.
-7) MVC Architecture Implementation : Clear separation between Models, Views (GUI), and Controllers for better code organization.
-8) Data Validation : Ensure that only valid data (e.g., positive numbers for age, calories) can be entered and saved.
-9) Reports and Charts with Matplotlib : Display visual progress reports (e.g., weight change over time, calorie intake trends).
-10) Unit Testing for Core Modules : Test key components such as models and database operations to ensure reliability.
+* GUI with PyQt5 and Qt Designer : A fully functional, user-friendly interface with input fields, buttons, and tables.
+* MVC Architecture Implementation : Clear separation between Models, Views (GUI), and Controllers for better code organization.
+* Data Validation : Ensure that only valid data (e.g., positive numbers for age, calories) can be entered and saved.
+* Reports and Charts with Matplotlib : Display visual progress reports (e.g., weight change over time, calorie intake trends).
+* Unit Testing for Core Modules : Test key components such as models and database operations to ensure reliability.
 
 Team Members List: 
 
@@ -36,8 +36,10 @@ Roles of Group Members:
 
 Ubraimov Aibek 
 * Data Analyst (Visualization Engineer)
+  
 Kachkynov Zhalil
-* Frontend Developer 
+* Frontend Developer
+  
 Toktosunov Adil
 * Backend Developer
 
