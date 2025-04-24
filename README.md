@@ -34,9 +34,12 @@ Toktosunov Adil
 
 Roles of Group Members:
 
-Ubraimov Aibek ()
-Kachkynov Zhalil ()
-Toktosunov Adil ()
+Ubraimov Aibek 
+* Data Analyst (Visualization Engineer)
+Kachkynov Zhalil
+* Frontend Developer 
+Toktosunov Adil
+* Backend Developer
 
 Screenshots: 
 
